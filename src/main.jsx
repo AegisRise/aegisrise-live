@@ -3,8 +3,8 @@ import { createRoot } from 'react-dom/client'
 import { ShieldCheck, HardHat, ClipboardCheck, Users, ArrowRight, CheckCircle2, Phone, Mail, MessageCircle, Target, Activity, FileCheck2, Mountain, ChevronRight } from 'lucide-react'
 import './style.css'
 
-const phoneDisplay = '+260 000 000 000'
-const whatsappNumber = '260000000000'
+const phoneDisplay = '+27 83 501 9524'
+const whatsappNumber = '27835019524'
 const email = 'info@aegisrise.co.za'
 
 function App() {
